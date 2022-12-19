@@ -1,2 +1,2 @@
 # mnp
-8am_devops
+8am_devops ;date
